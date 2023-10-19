@@ -1,0 +1,12 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\İl İlçe Seyehat\İl İlçe Seyehat\bin\Debug\İl İlçe Seyehat.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\İl İlçe Seyehat\İl İlçe Seyehat\bin\Debug\İl İlçe Seyehat.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\İl İlçe Seyehat\İl İlçe Seyehat\bin\Debug\İl İlçe Seyehat.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\İl İlçe Seyehat\İl İlçe Seyehat\obj\Debug\İl İlçe Seyehat.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\İl İlçe Seyehat\İl İlçe Seyehat\obj\Debug\İl İlçe Seyehat.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\İl İlçe Seyehat\İl İlçe Seyehat\obj\Debug\İl_İlçe_Seyehat.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\İl İlçe Seyehat\İl İlçe Seyehat\obj\Debug\İl_İlçe_Seyehat.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\İl İlçe Seyehat\İl İlçe Seyehat\obj\Debug\İl_İlçe_Seyehat.seyehat.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\İl İlçe Seyehat\İl İlçe Seyehat\obj\Debug\İl İlçe Seyehat.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\İl İlçe Seyehat\İl İlçe Seyehat\obj\Debug\İl İlçe Seyehat.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\İl İlçe Seyehat\İl İlçe Seyehat\obj\Debug\İl İlçe Seyehat.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\İl İlçe Seyehat\İl İlçe Seyehat\obj\Debug\İl İlçe Seyehat.pdb
